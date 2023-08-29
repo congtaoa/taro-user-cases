@@ -1401,6 +1401,13 @@ const userCases = {
       framework: "taro",
       taroVersion: "3.5.11",
       screenshot: []
+    },
+    {
+      name: "h5编辑器",
+      url: "https://github.com/congtaoa/fabric-mobile-h5/assets/18671378/16f52f11-00ce-4666-9bb8-b6fdad79a0fa",
+      framework: "taro",
+      taroVersion: "3.6.13",
+      screenshot: []
     }
   ],
   支付宝小程序: [
